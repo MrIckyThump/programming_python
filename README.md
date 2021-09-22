@@ -8,8 +8,8 @@ Programming in Python
 - **TAs**: Viktor Wolf
 
 
-This course gives an overview of modern data-driven techniques for natural language processing. The course moves from shallow bag-of-words models to richer structural representations of how words interact to create meaning. At each level, we will discuss the salient linguistic phemonena and most successful computational models. Along the way we will cover machine learning techniques which
-are especially relevant to natural language processing.
+This course gives an introduction to modern Python programming for data science based on a unique BBC news media data set. The course contents start with a basic introduction to programming with Python as well as the relevant elements using Anaconda, git and Jupyter Notebooks. 
+We then continue with learning about programming basics, routines and how to use external libraries. More advanced topics will cover Python-specific elements, data visualisation as well as object-oriented topics. Advanced elements will deal with data science essentials, typical problems in data science and how to solve basically any data question.
 
 - [Readings](#readings)
 - [Grading](#grading)
@@ -19,16 +19,15 @@ are especially relevant to natural language processing.
 # Learning goals
 <a name="learning"/>
 
-- Acquire the fundamental linguistic concepts that are relevant to language technology. This goal will be assessed in the short homework assignments and the exams.
-- Analyze and understand state-of-the-art algorithms and statistical techniques for reasoning about linguistic data. This goal will be assessed in the exams and the assigned projects.
-- Implement state-of-the-art algorithms and statistical techniques for reasoning about linguistic data. This goal will be assessed in the assigned projects.
-- Adapt and apply state-of-the-art language technology to new problems and settings. This goal will be assessed in assigned projects.
-- (7650 only) Read and understand current research on natural language processing. This goal will be assessed in assigned projects.
+- Acquire the fundamental programming concepts that are relevant to programming and data science. This goal will be assessed in the short homework assignments and the exams.
+- Analyze and understand state-of-the-art algorithms and programming techniques for dealing with data science tasks. This goal will be assessed in the exams and the assigned projects.
+- Implement state-of-the-art algorithms and programming techniques for dealing with data. This goal will be assessed in the assigned projects.
+- Adapt and apply state-of-the-art programming technology to new problems and settings. This goal will be assessed in assigned projects.
 
 # Readings #
 <a name="readings"/>
 
-Readings will be drawn mainly from my [notes](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes). Additional readings may be assigned from published papers, blogposts, and tutorials.
+Readings will be drawn mainly from my [notes](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes) and notebooks. Additional readings may be assigned from published papers, blogposts, and tutorials.
 
 ## Supplemental textbooks ##
 
