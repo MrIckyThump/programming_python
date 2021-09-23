@@ -76,3 +76,8 @@ One of the goals of the assigned work is to assess your individual progress in m
 - Solutions should not be copied from others but rather demonstrate one's own capability of solving a task or an issue. It is not acceptable to solve parts and exchange these with other students. Each code must be one's own contribution.
 
 Using other people’s text or figures without attribution is plagiarism, and is never acceptable.
+
+## Data and Copyright
+
+Data sets provided for this class have been collected by me with the permsission of its owners. Your are allowed to use the data set for tasks within this class, and may work with it on your own. 
+It is not allowed to copy, alter, reproduce or change elements of these data sets on your own or present alterations or variations of any manner as your own work. Do not reproduce or distribute any material from these pages to other locations and/or persons. 
