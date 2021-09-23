@@ -31,9 +31,11 @@ Readings will be drawn mainly from my [notes](https://github.com/MrIckyThump/pro
 
 ## Supplemental textbooks ##
 
-These are completely optional, but might deepen your understanding of the material.
+These books will deepen your understanding of the material.
 
-... textbooks will follow.
+An introductory book to Python can be found in '[Think Python] (https://greenteapress.com/wp/think-python-2e/)' by Allen Downey.
+
+A good starting point for resources can be found [here](https://www.python.org/doc/).
 
 # Grading
 <a name="grading"/>
