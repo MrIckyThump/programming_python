@@ -33,7 +33,7 @@ Readings will be drawn mainly from my [notes](https://github.com/MrIckyThump/pro
 
 These books will deepen your understanding of the material.
 
-An introductory book to Python can be found in '[Think Python] (https://greenteapress.com/wp/think-python-2e/)' by Allen Downey.
+An introductory book to Python can be found in [Think Python](https://greenteapress.com/wp/think-python-2e/) by Allen Downey.
 
 A good starting point for resources can be found [here](https://www.python.org/doc/).
 
