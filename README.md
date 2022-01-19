@@ -1,11 +1,11 @@
 Programming in Python
 ==========
 
-- **Course**: Programming in Python
+- **Course**: Programming in Python | Programming for Data Science
 - **Instructor**: Thomas Kopinski
 - **Semester**: Winter 21/22
-- **Time**: Mondays (weekly), 2:00-3:30pm, Thursdays (bi-weekly), 10:00-11:30am
-- **TAs**: Viktor Wolf
+- **Time**: ---
+- **TAs**: Felix Neubürger, Viktor Wolf
 
 
 This course gives an introduction to modern Python programming for data science based on a unique BBC news media data set. The course contents start with a basic introduction to programming with Python as well as the relevant elements using Anaconda, git and Jupyter Notebooks. 
