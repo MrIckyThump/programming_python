@@ -3,7 +3,7 @@ Programming in Python
 
 - **Course**: Programming in Python | Programming for Data Science
 - **Instructor**: Thomas Kopinski
-- **Semester**: Winter 21/22
+- **Semester**: Winter 22/23
 - **Time**: ---
 - **TAs**: Felix Neubürger, Viktor Wolf
 
