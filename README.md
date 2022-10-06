@@ -4,7 +4,7 @@ Programming in Python
 - **Course**: Programming in Python | Programming for Data Science
 - **Instructor**: Thomas Kopinski
 - **Semester**: Winter 22/23
-- **Time**: ---
+- **Time**: Check elearning platform for Zoom Credentials
 - **TAs**: Felix Neubürger, Viktor Wolf
 
 
